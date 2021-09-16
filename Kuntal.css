@@ -1,0 +1,22 @@
+body{
+background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(17,80,155,1) 100%);}
+.img{
+  border-radius: 50%;
+  border: 2px solid;
+  border-color: silver;
+  width: 20%;
+  padding-top: 3px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  padding-right: 3px;}
+.a1{
+  color: red;
+  font-family: Courier New;
+  font-size: 20px;}
+  .a2{
+    color: black;}
+  h1{
+ color: tomato;
+ font-family: cursive;
+ text-align: center;}
