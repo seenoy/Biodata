@@ -1,0 +1,44 @@
+body {
+	background: linear-gradient(-45deg, #323232, #737373, #505050, #5e5e5e );
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+ h1{
+ color: black;
+ font-family: cursive;
+ text-align: center;}
+.a1{
+  color: black;
+  font-family: serif;}
+  .a2{
+  color: black;
+  font-family: monospace;}
+  .img1{
+    border-radius: 50%;
+  border: 2px solid;
+  border-color: silver;
+  width: 20%;
+  padding-top: 3px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  padding-right: 3px;}
+  .img2{
+   border: 2px solid;
+   border-color: black;
+    width: 90%;}
+  .a3{
+  text-align: center;
+  font-family: emoji;
+  }
